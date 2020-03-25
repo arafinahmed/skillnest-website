@@ -1,0 +1,33 @@
+
+.head-container{
+  
+  width: 100%;
+  height: 700px;  
+  clip-path: polygon(50% 0%, 100% 0, 100% 75%, 53% 100%, 0% 75%, 0 0);
+  height: 80vh;
+  background: linear-gradient(242.74deg, #FF6565 9.57%, #FE5454 91.16%);
+  font-family: 'Tajawal';
+}
+
+.logo-name{
+  font-family: 'El Messiri', sans-serif;
+  font-weight: 700;
+}
+.logo-overline{
+  text-decoration: overline white;
+}
+.logo-name h1{
+  font-size: 50px;
+  text-align: right;
+  color: white;
+}
+.tagline{
+  text-align: center;
+  color: white;
+}
+.headSide{
+  margin-top: 50px;
+}
+.navbar-style a{
+  font-weight: 700;
+}

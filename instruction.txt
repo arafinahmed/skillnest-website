@@ -1,0 +1,7 @@
+Front end working process:
+1. Make a Prototype which I will provide you.
+2. Code it using bootstrap..  Make it fully responsive*
+3. Divide the site into react components 
+3.5. Make dummy datas of the contents of the website,  like services - portfolios
+4. Merge them all with routes and show the dummy datas 
+5. remove ta dummy data and connect with actual data which will come from database (I Will take care of it)
