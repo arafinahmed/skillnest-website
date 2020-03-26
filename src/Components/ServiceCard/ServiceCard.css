@@ -1,0 +1,32 @@
+.service-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);    
+    text-align: center;
+    padding: 10px 0;
+    margin: 0px;
+    height: 250px;
+    margin-bottom: 15px;
+    
+}
+.service-image{
+    padding: 0;
+    
+}
+.service-image-outer{    
+    padding: 0;
+}
+.service-right{
+    margin: 0;
+}
+.service-right-outer{
+    padding: 0;
+}
+.service-product-title{
+    color: black;
+}
+.service-product-title h6{
+    font-weight: 700;
+}
+.service-product-description{
+    font-size: smaller;
+    padding: 0 10px;
+}

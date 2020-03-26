@@ -1,0 +1,49 @@
+.product-card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);    
+    text-align: center;
+    padding: 0 0;
+    margin: 0px;
+    
+}
+.product-title{
+    color: #FE5454;
+    font-size: 24px;
+    
+    height: 50px;
+}
+.product-button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: rgb(151, 146, 146);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    
+    
+  }
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  .product-description{
+      padding: 0 20px;
+      
+      height: 200px;
+  }
+  .outer-image{
+    text-align: center;
+    
+}
+  .product-image{
+      padding: 10px;
+      height: 200px;
+      width: 200px;
+      
+      display: inline-block;
+  }
+  
+  
+ 

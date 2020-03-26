@@ -1,0 +1,40 @@
+.title h1{
+    margin: 0;
+    padding: 0;
+}
+
+.content-section{
+   
+    border: none;
+    padding: 20px 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);  
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.content p{
+    text-align: justify;
+}
+
+.title{
+    text-align: center;
+}
+
+.inner{
+    display: inline-block;
+    height: 4px;
+    width: 120px;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    border-radius: 4px;
+    position:relative;
+    bottom:13px;       
+}
+#about{
+    
+    margin-bottom: -60px;
+    position: relative;
+    top: -100px;
+}
