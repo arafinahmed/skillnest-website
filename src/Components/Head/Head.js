@@ -23,7 +23,6 @@ const Head = () => {
                             <a className="nav-item nav-link  " href="#about">About</a>
                             <a className="nav-item nav-link  " href="#products">Products</a>
                             <a className="nav-item nav-link  " href="#services">Services</a>
-                            <a className="nav-item nav-link  " href="#team">Team</a>
                             <a className="nav-item nav-link  " href="#contact">Contact</a>
                         </div>
                     </div>
@@ -33,12 +32,12 @@ const Head = () => {
 
 
 
-                <div className="container">
+                <div className="custom-container d-flex justify-content-center">
                     <div className="background">
                     <div className="d-flex justify-content-around ">
-                        <div className="col-md-6 ">
-                            <div className="headSide">
-                                <div className="col-md-12">
+                        <div className="col-md-6 col-sm-6 head-left-side d-flex align-items-center">
+                            <div className="headSide d-flex align-items-center">
+                                <div className="">
 
                                     <div className="leftside">
                                     <div className="logo-name d-flex justify-content-center">
@@ -57,10 +56,10 @@ const Head = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6">
-                        <div className="headSide">
+                        <div className="col-md-6 col-sm-6 head-left-side d-flex align-items-center">
+                        <div className="headSide d-flex align-items-center">
                             <div className="leftside">
-                            <div className="col-md-8">
+                            <div className="">
                             <img className="img-fluid" src="images/headerImg.svg" alt="" />
                             </div>
                             </div>

@@ -9,7 +9,6 @@
     color: #FE5454;
     font-size: 24px;
     
-    height: 50px;
 }
 .product-button {
     border: none;
@@ -31,7 +30,6 @@
   .product-description{
       padding: 0 20px;
       
-      height: 200px;
   }
   .outer-image{
     text-align: center;
@@ -39,7 +37,7 @@
 }
   .product-image{
       padding: 10px;
-      height: 200px;
+      
       width: 200px;
       
       display: inline-block;

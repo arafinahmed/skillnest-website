@@ -6,8 +6,8 @@ const ServiceCard = (props) => {
     return (
         <div  className="col-md-4">          
 
-
-            <div className="service-card d-flex align-items-center">
+            <div className="service-card">
+            <div className=" d-flex align-items-center">
             <div>
             <div className="service-product-title">
                     <h6>{name}</h6>
@@ -27,6 +27,7 @@ const ServiceCard = (props) => {
                 </div>
                 </div>
                 </div>
+            </div>
             </div>
             </div>
         </div>

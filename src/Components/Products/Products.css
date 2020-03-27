@@ -2,10 +2,12 @@
 .content-product{
     border: 1px solid red;
     border: none;
-    padding: 20px 50px;
+    padding: 20px 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);  
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
     margin-bottom: 30px;
+}
+.container{
+    padding: 0 0;
+    
 }

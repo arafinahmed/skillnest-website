@@ -6,6 +6,8 @@ import Head from './Components/Head/Head';
 import About from './Components/About/About';
 import Products from './Components/Products/Products';
 import Service from './Components/Service/Service';
+import NeedHelp from './Components/NeedHelp/NeedHelp';
+import StayTuned from './Components/StayTuned/StayTuned';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <About></About>
       <Products></Products>
       <Service></Service>
+      <NeedHelp></NeedHelp>
+      <StayTuned></StayTuned>
     </div>
   );
 }

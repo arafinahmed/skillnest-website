@@ -27,6 +27,7 @@
 }
 .headSide{
   margin-top: 50px;
+  
 }
 .navbar-style a{
   font-weight: 700;
@@ -36,9 +37,18 @@
     top: 0;
     left: 8;
     z-index: -100;
-    padding-top: 20px;
+    margin-top: 20px;
+    
 }
 .leftside{
-  padding-top: 60px;
-  padding-bottom: 20px;
+  padding-top: 20px;
+  
+  
+}
+.head-left-side{
+  
+  padding: 0px;
+}
+.custom-container{
+  
 }

@@ -1,0 +1,16 @@
+.stay-tunned{
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+}
+.stay-tunned-inner{
+    display: inline-block;
+}
+.stay-tuneed-inp{
+    width: 80%;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
